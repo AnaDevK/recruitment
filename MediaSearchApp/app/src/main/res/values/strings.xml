@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Media Search</string>
+    <string-array name="mediaType">
+        <item>music</item>
+        <item>musicVideo</item>
+        <item>movie</item>
+        <item>podcast</item>
+        <item>audiobook</item>
+        <item>shortFilm</item>
+        <item>tvShow</item>
+        <item>software</item>
+        <item>ebook</item>
+        <item>all</item>
+    </string-array>
+</resources>
